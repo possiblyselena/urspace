@@ -6,6 +6,6 @@ Create a bouncy and whimsical website, get fairy lights so you can be whimsical 
 
 - Code 5+ hours, get cute whimsical fairy lights!
 
-**Due at THIS Thursday @ 5pm, that's August 18th!**
+**Due at THIS Wednesday @ 11:59pm, that's August 19!**
 
 *(I recommend looking at my js script if you need help bcos that's the hard part)*
