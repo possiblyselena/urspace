@@ -24,8 +24,33 @@ h1 {
   color: #ffffff;
   padding: 0px;
   margin: 0px;
-  align-items: center;
   text-align: center;
+}
+
+.tutorial {
+  background-color: #3a5874;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+  border-radius: 10px;
+  margin:;
+}
+
+a {
+  font-size: 30px;
+  color: white;
+  text-align: center;
+}
+
+p {
+  align-itmes: center;
+  text-align: center;
+}
+
+.credits {
+  color: white;
+  font-size: 20px;
 }
 
 .instructions {
@@ -70,15 +95,14 @@ h1 {
   box-sizing: border-box;
 }
 
-.tutorial {
+.ysws {
   background-image: url("assets/paper.png");
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: center;
 
   width: 90%;
-  max-width: 300px;
-  margin: 20px auto;
+  max-width: 330px;
   align-items: center;
   justify-content: center;
   padding: 4% 4%;
@@ -93,4 +117,9 @@ h1 {
 
 .bounce:hover {
   transform: scale(1.05);
+}
+
+footer {
+  position: sticky;
+  bottom: 10px;
 }

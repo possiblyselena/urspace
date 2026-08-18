@@ -6,8 +6,8 @@ document.addEventListener('DOMContentLoaded', () => {
       el: el,
       x: 50 + i * 40,
       y: 50 + i * 40,
-      dx: (Math.random() < 0.5 ? 1 : -1) * (2 + Math.random() * 2),
-      dy: (Math.random() < 0.5 ? 1 : -1) * (2 + Math.random() * 2),
+      dx: (Math.random() < 0.5 ? 1 : -1) * (0.75 + Math.random() * 1.5), /* adjust these values for speed!*/
+      dy: (Math.random() < 0.5 ? 1 : -1) * (0.75 + Math.random() * 1.5),
       isHovered: false
     };
 
